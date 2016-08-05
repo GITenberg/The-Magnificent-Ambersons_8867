@@ -1,0 +1,50 @@
+_repo: The-Magnificent-Ambersons_8867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, B. (Booth)
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: "The Magnificent Ambersons is a 1918 novel written by Booth Tarkington\
+  \ which won the 1919 Pulitzer Prize for the novel. It was the second novel in his\
+  \ Growth trilogy, which included The Turmoil (1915) and The Midlander (1923, retitled\
+  \ National Avenue in 1927). In 1925 the novel was first adapted for film under the\
+  \ title Pampered Youth. In 1942 Orson Welles wrote and directed an acclaimed film\
+  \ adaptation of the book. Welles's original screenplay was the basis of a 2002 TV\
+  \ movie produced by the A&E Network.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8867'
+  wikidata: Q5239187
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Indiana -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Loss (Psychology) -- Fiction'
+- !lcsh 'Social change -- Fiction'
+- GITenberg
+title: The Magnificent Ambersons
+url: http://www.gutenberg.org/ebooks/8867
+wikipedia:
+- https://el.wikipedia.org/wiki/%CE%9F%CE%B9_%CE%A5%CF%80%CE%AD%CF%81%CE%BF%CF%87%CE%BF%CE%B9_%CE%86%CE%BC%CF%80%CE%B5%CF%81%CF%83%CE%BF%CE%BD_(%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF)
+- https://fr.wikipedia.org/wiki/La_Splendeur_des_Amberson_(roman)
+- https://en.wikipedia.org/wiki/The_Magnificent_Ambersons
+- https://sh.wikipedia.org/wiki/The_Magnificent_Ambersons_(roman)
+- https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%A8%D8%B1%D8%B3%D9%88%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A8%D8%A7%D8%B4%DA%A9%D9%88%D9%87_(%D8%B1%D9%85%D8%A7%D9%86)
