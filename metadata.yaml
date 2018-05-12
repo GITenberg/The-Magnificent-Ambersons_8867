@@ -1,5 +1,8 @@
 _repo: The-Magnificent-Ambersons_8867
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -19,6 +22,8 @@ description: "The Magnificent Ambersons is a 1918 novel written by Booth Tarking
   \ title Pampered Youth. In 1942 Orson Welles wrote and directed an acclaimed film\
   \ adaptation of the book. Welles's original screenplay was the basis of a 2002 TV\
   \ movie produced by the A&E Network.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8867#The-Magnificent-Ambersons
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
